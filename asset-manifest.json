@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Krypt/static/css/main.d7b0ba64.css",
+    "main.js": "/Krypt/static/js/main.b2bd490c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Krypt/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/Krypt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Krypt/index.html",
+    "main.d7b0ba64.css.map": "/Krypt/static/css/main.d7b0ba64.css.map",
+    "main.b2bd490c.js.map": "/Krypt/static/js/main.b2bd490c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Krypt/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7b0ba64.css",
+    "static/js/main.b2bd490c.js"
+  ]
+}
